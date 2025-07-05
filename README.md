@@ -27,8 +27,9 @@ The goal was to estimate relative lending attractiveness across sovereigns by no
 
 - **Credit Rating Comparison (2008 vs 2022)**  
   Bar charts comparing average sovereign credit scores by country and year.  
-  ⚠️ **Lower bars = stronger creditworthiness.**  
-  ⚠️ **Higher bars = weaker credit profiles.**  
+  ⚠️ **Higher bars = more credit risk / lower creditworthiness.**  
+  ⚠️ **Lower bars = stronger credit ratings.**  
+  *(Note: This visual logic is the inverse of the numerical mapping used in the Python model, which assigns higher numbers to better credit.)*
 
 ---
 
